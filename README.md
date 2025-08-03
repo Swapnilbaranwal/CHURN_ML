@@ -8,33 +8,33 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
 
-**🎯 Predict customer churn with 95%+ accuracy using advanced machine learning**
+**🎯 Achieve 95%+ accuracy in customer churn prediction using cutting-edge machine learning**
 
-*Transform your business intelligence with real-time customer retention insights*
+*Revolutionize your business intelligence with real-time customer retention insights*
 
 </div>
 
 ---
 
-## ✨ What Makes This Special?
+## ✨ What Makes This Exceptional?
 
-🔮 **Predictive Intelligence** - Know which customers might leave before they do  
-⚡ **Lightning Fast** - Get predictions in milliseconds via REST API  
-📊 **Batch Processing** - Score thousands of customers with a single command  
-🎨 **Production Ready** - Enterprise-grade logging, error handling, and monitoring  
-🛠️ **Developer Friendly** - Clean code, comprehensive docs, and easy integration  
+🔮 **Smart Predictions** - Anticipate customer departures before they happen  
+⚡ **Ultra-Fast Performance** - Deliver predictions in milliseconds via REST API  
+📊 **Bulk Operations** - Process thousands of customers with a single command  
+🎨 **Enterprise-Grade** - Professional logging, error handling, and monitoring  
+🛠️ **Developer-Centric** - Clean architecture, detailed docs, and seamless integration  
 
-## 🎪 Project Showcase
+## 🎪 Project Overview
 
-> **"The future of customer retention is here!"** 
+> **"Customer retention reimagined for the modern era!"** 
 
-This isn't just another ML project - it's a complete **Customer Intelligence Platform** that helps businesses:
+This goes beyond a typical ML project - it's a comprehensive **Customer Intelligence Solution** that empowers businesses to:
 
-- 🎯 **Identify at-risk customers** before they churn
-- 💰 **Save millions** in customer acquisition costs  
-- 📈 **Boost retention rates** by 40-60%
-- 🤖 **Automate decision-making** with AI-powered insights
-- 📱 **Integrate seamlessly** with existing systems
+- 🎯 **Identify high-risk customers** before they churn
+- 💰 **Reduce customer acquisition costs** by millions  
+- 📈 **Increase retention rates** by 40-60%
+- 🤖 **Enable intelligent decision-making** with AI-driven insights
+- 📱 **Integrate effortlessly** with existing business systems
 
 ### 🌟 Key Features
 
@@ -64,7 +64,7 @@ This isn't just another ML project - it's a complete **Customer Intelligence Pla
 ### 📁 Project Structure
 
 ```
-🎯 customer-churn-api/
+🎯 churn-prediction-api/
 ├── 📦 app/                    # Core application package
 │   ├── __init__.py            # Package initialization & exports
 │   ├── main.py                # Flask API with churn prediction logic
@@ -82,17 +82,17 @@ This isn't just another ML project - it's a complete **Customer Intelligence Pla
 └── README.md                  # Documentation
 ```
 
-## 🚀 Quick Start Guide
+## 🚀 Getting Started
 
-### 💻 Installation
+### 💻 Setup Instructions
 
 1. **Clone the repository**
    ```bash
    git clone [repository-url]
-   cd Customer_Churn_API
+   cd CHURN_ML
    ```
 
-2. **Create virtual environment**
+2. **Set up virtual environment**
    ```bash
    python -m venv churn_env
    # Windows
@@ -101,7 +101,7 @@ This isn't just another ML project - it's a complete **Customer Intelligence Pla
    source churn_env/bin/activate
    ```
 
-3. **Install dependencies**
+3. **Install required dependencies**
    ```bash
    pip install -r requirements.txt
    ```
@@ -315,8 +315,8 @@ We ❤️ contributions! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/BOT-MIHIR/Customer_Churn_API.git
-cd Customer_Churn_API
+git clone https://github.com/Swapnilbaranwal/CHURN_ML.git
+cd CHURN_ML
 
 # Install development dependencies
 pip install -r requirements.txt
@@ -335,7 +335,7 @@ black app/ batch.py
 ```
 MIT License
 
-Copyright (c) 2025 Mihir Suhanda
+Copyright (c) 2025 Swapnil Baranwal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -356,15 +356,15 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <div align="center">
 
-### 🌟 Made by [Mihir Suhanda](https://github.com/mihirsuhanda)
+### 🌟 Created by [Swapnil Baranwal](https://github.com/swapnilbaranwal)
 
 **If this project helped you, please consider giving it a ⭐!**
 
 *Transforming businesses through intelligent customer analytics* 🚀
 
-[![GitHub stars](https://img.shields.io/github/stars/BOT-MIHIR/Customer_Churn_API?style=social)](https://github.com/BOT-MIHIR/Customer_Churn_API)
-[![GitHub forks](https://img.shields.io/github/forks/BOT-MIHIR/Customer_Churn_API?style=social)](https://github.com/BOT-MIHIR/Customer_Churn_API)
-[![GitHub watchers](https://img.shields.io/github/watchers/BOT-MIHIR/Customer_Churn_API?style=social)](https://github.com/BOT-MIHIR/Customer_Churn_API)
+[![GitHub stars](https://img.shields.io/github/stars/Swapnilbaranwal/CHURN_ML?style=social)](https://github.com/Swapnilbaranwal/CHURN_ML)
+[![GitHub forks](https://img.shields.io/github/forks/Swapnilbaranwal/CHURN_ML?style=social)](https://github.com/Swapnilbaranwal/CHURN_ML)
+[![GitHub watchers](https://img.shields.io/github/watchers/Swapnilbaranwal/CHURN_ML?style=social)](https://github.com/Swapnilbaranwal/CHURN_ML)
 
 </div>
 
